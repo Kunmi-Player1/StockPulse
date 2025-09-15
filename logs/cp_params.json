@@ -1,0 +1,8 @@
+{
+  "ticker": "AAPL",
+  "feature": "stl_residual",
+  "model": "l2",
+  "pen": 20.0,
+  "min_size": 5,
+  "jump": 1
+}

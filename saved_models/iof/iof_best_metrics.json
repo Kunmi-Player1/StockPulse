@@ -1,0 +1,15 @@
+{
+  "score_method": "score_samples",
+  "weirdness_definition": "weirdness =  -score_samples cus like normally small or negative values mean wierd values but when we reverse the sign those values become the big values so like bigger values now rep wierd rows i think",
+  "best_percentile": 82.75862068965517,
+  "best_numeric_cutoff": 0.604314048674037,
+  "selected_row_method": "target_recall",
+  "target_recall_val": 0.6,
+  "target_prec_val": 0.5,
+  "n_estimators": 600,
+  "max_samples": "auto",
+  "kpis": {
+    "alert_rate_val": 0.1724137931034483,
+    "alert_rate_test": 0.07183908045977011
+  }
+}
